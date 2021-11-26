@@ -1,4 +1,4 @@
-# testvue2
+# table-custom
 
 ## Project setup
 ```
