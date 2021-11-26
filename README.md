@@ -1,5 +1,5 @@
 
-###自定义表格组件，使用方法可以参见组件内app.vue演示页面
+自定义表格组件，使用方法可以参见组件内app.vue演示页面
 
 ###（demo地址）http://feiranjipin.gicp.net/
 
