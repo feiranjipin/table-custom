@@ -23,6 +23,8 @@ npm run lint
 ### Customize configuration
 自定义表格组件，使用方法可以参见组件内app.vue演示页面
 
+（demo地址）http://feiranjipin.gicp.net/
+
 可实现功能列表如下：
 
 1、自定义表结构（包括行、列信息，单表格大小）
