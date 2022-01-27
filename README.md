@@ -5,6 +5,7 @@ For the user-defined table component, please refer to the app.vue demo page in t
     * http://www.table-custom.cn/
     (该演示网址一直会实时更新，The demo web site is always updated in real time)
 ![5](https://github.com/feiranjipin/table-custom/blob/main/abc.png)
+![5](https://github.com/feiranjipin/table-custom/blob/4bea7965c49f21136e5cbdf25079e93c3bd4a66f/def.jpg)
 ## The list of realizable functions is as follows:
     * 1. User defined table structure (including row and column information and single table size)
     * 2. Custom move setting block (including text content, zoom or not)
